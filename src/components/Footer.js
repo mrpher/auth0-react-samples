@@ -4,7 +4,7 @@ const Footer = () => (
   <footer className="bg-light p-3 text-center">
     <div className="logo" />
     <p>
-      Sample project provided by <a href="https://auth0.com">Auth0</a>
+      Fake Financial is a fake financial company, but you probably already know this.
     </p>
   </footer>
 );
